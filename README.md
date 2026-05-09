@@ -2,6 +2,15 @@
 
 # Libft
 
+## Result
+
+<p align="center">
+  <img src="./assets/score-100.png" alt="Libft 100 score" width="260">
+</p>
+<p align="center">
+  <img src="./assets/tester-ok.png" alt="Libft tester OK result" width="85%">
+</p>
+
 ## Description
 Libft is a custom C library created for the 42 curriculum. The goal of the project is to reimplement a useful subset of the C standard library and add small utility functions that can be reused in later 42 projects.
 

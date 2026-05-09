@@ -8,7 +8,7 @@
   <img src="./assets/score-100.png" alt="Libft 100 score" width="260">
 </p>
 <p align="center">
-  <img src="./assets/tester-ok.png" alt="Libft tester OK result" width="85%">
+  <img src="./assets/tester-ok.png" alt="Libft tester OK result" width="100%">
 </p>
 
 ## Description
